@@ -17,6 +17,7 @@ int main() {
 			}
 		}
 		/*
+			 view the image in this repository for better understanding
 			 create two possible grids with alternating asterisks (this would produce many islands)
 			 
 			 grid 1 = asterisk will be placed in the starting cell (cells will be placed in odd positions)
